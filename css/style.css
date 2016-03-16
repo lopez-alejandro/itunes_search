@@ -1,0 +1,45 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#main_container{
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 950px;
+  min-width: 500px;
+}
+
+#search_container{
+  max-width: 550px;
+  min-width: 200px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#search_input{
+  max-width: 450px;
+  min-width: 100px;
+
+  display: inline-block;
+}
+
+#search_button{
+  max-width:100px;
+  min-width: 50px;
+  display: inline-block;
+}
+
+#results_container{
+  max-width: 950px;
+  min-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.store_link{
+  color: #ff69b4;
+  text-decoration: none;
+}
